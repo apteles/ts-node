@@ -13,10 +13,11 @@ you can use a [image docker mongo](https://hub.docker.com/_/mongo).
 First of all you should clone this repository:
 
 ```
+git clone https://github.com/apteles/ts-node.git
 
 ```
 
-After that with mongodb running in your machine, run the commando bellow:
+After that with mongodb running in your machine, enter in folder created by the commando previous and run the commando bellow:
 
 ```
 yarn dev
