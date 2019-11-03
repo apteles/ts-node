@@ -1,12 +1,12 @@
 ## About TS Node
 
-This repository is a implementation of the video of [Channel RocketSeat](https://www.youtube.com/watch?v=aTf8QTjw4RE) where him build a simple
+This repository is a implementation of the video of [RocketSeat' Channel](https://www.youtube.com/watch?v=aTf8QTjw4RE) where him build a simple
 project using typescript.
 
 ## Advertise
 
-This project use mongoose, in the words you nesse have [mongodb](https://www.mongodb.com/) instaled in your machine or
-you can use a [image docker mongo](https://hub.docker.com/_/mongo).
+This project use mongoose, in other words, you should have [mongodb](https://www.mongodb.com/) instaled in your machine or
+you can use a [mongo image docker](https://hub.docker.com/_/mongo).
 
 ## Quick Start
 
